@@ -1,4 +1,4 @@
-# Plataforma Inteligente de Gestión de Proyectos
+# Práctica Individual: Diseño y Evaluación de Arquitectura de Software para una Plataforma Inteligente de Gestión de Proyectos
 
 ## 1. Objetivo y Contexto
 La retroalimentación es una herramienta clave en el proceso de aprendizaje, ya que permite identificar fortalezas y áreas de mejora en el desempeño académico. En este ejercicio, se evaluará tu capacidad para aplicar los principios y patrones del desarrollo de software, enfocándote en la creación de una arquitectura robusta, modular, escalable y mantenible. Deberás demostrar pensamiento crítico, rigor técnico y creatividad al diseñar soluciones que integren conceptos modernos de ingeniería de software.
