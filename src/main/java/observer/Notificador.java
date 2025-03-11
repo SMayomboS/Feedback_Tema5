@@ -10,10 +10,6 @@ public class Notificador {
         observadores.add(observador);
     }
 
-    public void eliminarObservador(Observador observador) {
-        observadores.remove(observador);
-    }
-
     public void notificar(String mensaje) {
         for (Observador observador : observadores) {
             observador.actualizar(mensaje);
