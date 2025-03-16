@@ -1,3 +1,5 @@
+# https://github.com/SMayomboS/Feedback_Tema5
+
 # Práctica Individual: Diseño y Evaluación de Arquitectura de Software para una Plataforma Inteligente de Gestión de Proyectos
 
 ## 1. Objetivo y Contexto
@@ -23,51 +25,4 @@ Deberás diseñar la arquitectura y elaborar ejemplos prácticos de implementaci
 
 ### Análisis Comparativo
 - Compara la arquitectura propuesta con soluciones utilizadas en la industria, identificando similitudes, diferencias y ventajas de tu enfoque.
-
-## 3. Actividades y Entregables
-Realiza de forma individual cada una de las siguientes actividades. Deberás documentar tus procesos, justificar tus decisiones y demostrar la aplicación práctica de los conceptos estudiados.
-
-### Actividad 1: Análisis y Selección de Principios de Diseño
-- **Tarea:** Investiga y analiza los principios **S.O.L.I.D., DRY, KISS y YAGNI**. Redacta un documento explicando cómo aplicarás estos principios en la arquitectura de la plataforma.
-- **Entregable:** Documento en PDF (máximo 2 páginas).
-- **Puntuación:** 1.5 puntos
-
-### Actividad 2: Identificación y Justificación de Patrones de Diseño
-- **Tarea:** Selecciona al menos **tres patrones de diseño** (uno creacional, uno estructural y uno de comportamiento) adecuados para el proyecto. Describe cada patrón y justifica su elección.
-- **Entregable:** Documento en PDF (1 página).
-- **Puntuación:** 1.5 puntos
-
-### Actividad 3: Esquema de la Arquitectura del Software
-- **Tarea:** Elabora un **diagrama UML** representando la estructura general de la solución, componentes principales, interacciones y dependencias.
-- **Entregable:** Diagrama en PDF o imagen (1 página).
-- **Puntuación:** 1.5 puntos
-
-### Actividad 4: Implementación Práctica de Patrones de Diseño
-- **Tarea:** Desarrolla fragmentos de **código** implementando los patrones seleccionados en la Actividad 2, con comentarios y explicación.
-- **Entregable:** Código fuente en repositorio Git (enlace) o archivo comprimido.
-- **Puntuación:** 2 puntos
-
-### Actividad 5: Estrategia de Control de Calidad y Pruebas Unitarias
-- **Tarea:** Define y describe una **estrategia** para la implementación de pruebas unitarias y validación del código.
-- **Entregable:** Documento en PDF (máximo 2 páginas).
-- **Puntuación:** 1.5 puntos
-
-### Actividad 6: Presentación en Video
-- **Tarea:** Graba un **video (5 min)** explicando cómo la aplicación de los principios y patrones mejoró la calidad y modularidad de la solución.
-- **Entregable:** Video en formato MP4 o enlace.
-- **Puntuación:** 2 puntos
-
-### Actividad 7: Análisis Comparativo con Arquitecturas Industriales
-- **Tarea:** Compara tu arquitectura con **soluciones industriales**, identificando fortalezas y posibles mejoras.
-- **Entregable:** Documento en PDF (1 página).
-- **Puntuación:** 1.5 puntos
-
-### Actividad 8: Informe Final Integrado
-- **Tarea:** Elabora un **informe final** integrando todo el proceso realizado. Debe incluir:
-  - **Resumen ejecutivo**
-  - **Justificación de decisiones técnicas**
-  - **Documentación de actividades** (con enlaces al repositorio y video)
-  - **Conclusiones y aprendizajes**
-- **Entregable:** Documento en PDF (8-12 páginas).
-- **Puntuación:** 2 puntos
 
